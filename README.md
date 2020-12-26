@@ -11,3 +11,6 @@ To run the project please follow the following steps....
 6) Use username 'admin' and password 'admin' to login to admin dashboard.
 7) Admin has to create a account for staff
 8) Staff can create account of users i.e the staff gives a connection ID to user and using that user can create his account.
+
+## Note:
+Unzip the vendor zip file in same folder else you will get styling error
